@@ -141,7 +141,7 @@ toml==0.10.2
 tomlkit==0.11.7
 torch==2.5.1
 torchvision==0.20.1
-tqdm==4.64.1
+tqdm==4.66.3
 twython==3.8.2
 types-aiofiles==22.1
 types-annoy==1.17
