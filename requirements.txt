@@ -29,7 +29,7 @@ filelock==3.9.0
 Flask==2.2.2
 fonttools==4.55.3
 fsspec==2024.12.0
-future==0.18.2
+future==0.18.3
 gpg==1.18.0
 gpiozero==2.0.1
 h11==0.14.0
