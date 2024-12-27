@@ -288,6 +288,6 @@ verboselogs==1.7
 virtualenv==20.17.1+ds
 webcolors==1.11.1
 webencodings==0.5.1
-Werkzeug==2.2.2
+Werkzeug==3.0.6
 wrapt==1.14.1
 zipp==3.19.1
