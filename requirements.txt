@@ -57,7 +57,7 @@ logilab-common==1.9.8
 lxml==4.9.2
 Mako==1.2.4.dev0
 Markdown==3.4.1
-markdown-it-py==2.1.0
+markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 matplotlib==3.10.0
 mccabe==0.7.0
