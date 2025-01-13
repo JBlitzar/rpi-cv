@@ -285,7 +285,7 @@ uritemplate==4.1.1
 urllib3==1.26.19
 v4l2-python3==0.3.5
 verboselogs==1.7
-virtualenv==20.17.1+ds
+virtualenv==20.26.6
 webcolors==1.11.1
 webencodings==0.5.1
 Werkzeug==3.0.6
